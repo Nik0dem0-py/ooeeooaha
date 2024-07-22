@@ -1,0 +1,13 @@
+name = "Ooeeooaha"
+author = "nicky"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2638fbfdae05d79ca9072db14e5abc94479c64411fc094d8a750843d634b6324"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

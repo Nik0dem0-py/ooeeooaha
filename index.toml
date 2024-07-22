@@ -1,0 +1,51 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/devices-mod.pw.toml"
+hash = "e702c3f0d7aef538e4588abffb8423701b4eb7898371e3361706a2bf8ae73a7a"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "df9fa54fc9635b60d8788138da56e972dabb350e6b55e0ce6709c29f029926d6"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "3f7d7e961be44b270240e6d8b6b7359027a0de4cd5bbef2ff66db2a67b4ac891"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "879b14f85a38c94f69ab8df307d519d05bc9b7bd57b8e65095fff8ffc4668325"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "e855300be1354899595f3e37e3f080647ae0ae0ac84df292441608c3f8327e21"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod-unofficial.pw.toml"
+hash = "acb83d6550f84931c3c2e3b1ccf614ad4425151ad6c21669e83c32ab4a5609ef"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "7cf93b8501b4b286b6be7dd58298eb4d4f2293f946b3da297d3a0718c8816336"
+metafile = true

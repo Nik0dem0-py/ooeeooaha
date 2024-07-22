@@ -1,0 +1,13 @@
+name = "Ultreon Devices Mod"
+filename = "devices-0.8.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a19f497cedf979a4e1037b5c487babfb62d20d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5062089
+project-id = 659048
