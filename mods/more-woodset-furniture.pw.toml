@@ -1,0 +1,13 @@
+name = "More Woodset Furniture"
+filename = "woodset_furniture-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eae1a76c615e7cb8f845ace57905494b9575f76f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5064809
+project-id = 944886

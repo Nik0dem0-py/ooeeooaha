@@ -1,0 +1,13 @@
+name = "Instrument++"
+filename = "ipp-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d90b737927fea317dda644bbc79779adace9c60b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4692244
+project-id = 729405
